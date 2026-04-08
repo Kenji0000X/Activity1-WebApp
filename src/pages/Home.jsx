@@ -17,9 +17,7 @@ function Home() {
                 HTML, and CSS, I am continuously learning and exploring new
                  technologies to enhance my skills and create innovative solutions.
             </p>
-            <div className="home-cta">
-              <button className="cta-button primary">Learn More</button>
-            </div>
+            
           </div>
           <div className="home-image">
             <div className="placeholder-image">
